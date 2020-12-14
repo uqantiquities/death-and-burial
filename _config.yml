@@ -10,7 +10,7 @@ title: Death and Burial in the Ancient World
 email: antiquitiesmuseum@uq.edu.au
 description: > # this means to ignore newlines until "baseurl:"
   A special audio guide for the RD Milns Antiquities Museum.
-baseurl: "/testguide" # the subpath of your site, e.g. /blog
+baseurl: "/death-and-burial" # the subpath of your site, e.g. /blog
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
 url: "http://www.example.com" # the base hostname & protocol for your site
